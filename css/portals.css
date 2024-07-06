@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('/dashboard/webdev/images/back_ground.webp');
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+p {
+    margin: 10px 0;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

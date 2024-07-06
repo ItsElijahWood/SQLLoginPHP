@@ -1,0 +1,7 @@
+body {
+    background-image: url("/dashboard/webdev/images/back_ground.webp");
+    background-size: cover;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
